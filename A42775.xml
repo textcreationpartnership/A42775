@@ -1,0 +1,383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to friends being a tender salutation to the faithful in God everywhere : also a letter to Charles, King of England &amp;c. / by Anne Gilman.</title>
+            <author>Gilman, Anne, d. 1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42775</idno>
+            <idno type="STC">Wing G768</idno>
+            <idno type="STC">ESTC R28035</idno>
+            <idno type="EEBO-CITATION">10334040</idno>
+            <idno type="OCLC">ocm 10334040</idno>
+            <idno type="VID">44887</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44887)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:61)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to friends being a tender salutation to the faithful in God everywhere : also a letter to Charles, King of England &amp;c. / by Anne Gilman.</title>
+                  <author>Gilman, Anne, d. 1686.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44887:1"/>
+            <pb facs="tcp:44887:1"/>
+            <p>AN
+Epiſtle to Friends;
+Being a Tender
+SALUTATION
+To the FAITHFUL in GOD every where.
+ALSO, A
+LETTER
+TO
+<hi>CHARLES,</hi> KING of <hi>England,</hi> &amp;c.</p>
+            <p>
+               <hi>By</hi> ANNE GILMAN.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:44887:2"/>
+            <head>An EPISTLE to FRIENDS, &amp;c.</head>
+            <p>DEar Friends, to whom this may come do I ſend
+greeting. Grace, Mercy and Peace be multiplied,
+in and amongſt you; who are of the Family of God,
+and of the houſhold of the Faithful, in the Eternal
+God of my Life doth my Soul ſalute you, who are kept in the
+Faith, in which there is no ſhadow of turning: to you which
+are made partakers of an endleſs Life, which is hid with Chriſt
+in God, is my Life drawn; and I am even conſtrained to let
+forth my Love unto you, which know the waſhing in the blood
+of the Covenant, and are made partakers of an everlaſting In<g ref="char:EOLhyphen"/>heritance,
+who have the Witneſs in your ſelves that you are
+his Children; and not only Children, but Heirs, and Joynt<g ref="char:EOLhyphen"/>heirs
+with Chriſt: For, as we <hi>ſuffer</hi> with him, we ſhall alſo
+<hi>reign</hi> with him; and though in the world we paſs through great
+Tribulations, yet abiding in Him which overcomes, here is
+our Peace and ſafety known: for he hath choſen us to be a
+People for his Praiſe, and his Honour to dwell in; and this is
+the reaſon we are called into the Vineyard, even to know the
+Work and the Reward thereof: for now is the day known,
+wherein the time is to be redeemed, becauſe the dayes are
+evil: Therefore, dear Friends, be not ſlothful; for the Lord
+is taking notice of the <hi>ſtanders idle</hi> this day: for it is requi<g ref="char:EOLhyphen"/>red
+of every one, according to your meaſures as you have re<g ref="char:EOLhyphen"/>ceived
+of the Lord, to clear your ſelves concerning this wicked
+Generation: for the Beſt is let looſe out of the bottomleſs<g ref="char:EOLhyphen"/>pit,
+and his fury is very great, becauſe he hath but a ſhort
+time to reign; therefore doth he roar after his prey with a
+devouring voice. Therefore, my Friends, keep upon your
+watch; for this is the day wherein he is in ſubtilty transform<g ref="char:EOLhyphen"/>ing
+himſelf into an Angel of light: But dear Lambs, keep to
+that which doth diſcover him in his appearances; for that is
+the Anchor you are to know, and there you are to be ſtaid,
+even in the Power, over Hell and Death, for theſe are the laſt
+<pb n="3" facs="tcp:44887:2"/>
+enemies we are to conquer: but bleſſed be God who is mighty
+in his appearance, and hath made himſelf known to be the
+Captain of our Salvation, and hath diſplayed the Banner of
+his Love over us, who in all our Afflictions is afflicted, and
+the Angel of his preſence is known to ſupport in the time of
+our need; and this is the reaſon that I am conſtrained to call
+upon you to keep to your watch: and if any Lamb among you
+be ſuffered to go aſtray, the Shepherd's Crook is to be known
+to catch them to the Fold. Underſtand what I ſay, my Friends,
+for I write to the Faithful that can reade with a ſingle heart;
+who have known the Clouds paſs over, and the Vail taken a<g ref="char:EOLhyphen"/>way,
+and the Partition-wall broken down; even they know
+what I ſay, and can feel me in the endleſs Life, and in the in<g ref="char:EOLhyphen"/>viſible
+Fountain of Love; for herein am I united unto you;
+And this is the day wherein the Lord is making up his Jewels,
+therefore are we made to ſpeak oft one to another, and a Book
+of Remembrance is to be written thereof: Therefore, dear
+Friends, think it not ſtrange concerning the fiery Tryals,
+which are to try you, as though ſome ſtrange thing happened
+unto you: for, as Gold, muſt you be tryed and purified in the
+fire: and this is the reaſon that he is making Veſſels fit for his
+Honour to dwell in; for there is nothing can ſtand before him
+but that which can endure the fire; even fire within, and fire
+without. Abide it, dear Friends, and keep cloſe to the Lord;
+for there is none can wear the Crown but they that endure to
+the end: For the mighty God is ariſen in ſtrength, as with an
+Army, to ſupport all thoſe that truſt in him, and are weak and
+little in their own eyes, being kept low in his Fear; for ſuch
+doth he wonderfully uphold. And here is no need of ſheltring
+one under another, for the Lord is the ſhelter of thoſe that
+put their truſt in him, and walk before him with an upright
+heart: for it is the heart he requires, which is redeemed out
+of the form, and kept ſingle to himſelf. Let them that reade,
+underſtand: for this is the Key of <hi>David,</hi> which ſhutteth,
+and no man openeth; and openeth, and no man ſhutteth; yea,
+God Almighty it is, who is the ſtrength of all thoſe that in a
+pure heart wait upon him, in the undefiled Life which keeps
+blameleſs. And in an unſpotted Conſcience, the well-ſprings
+<pb n="4" facs="tcp:44887:3"/>
+of Life are ſet and known, which run moſt pleaſantly unto
+all thoſe that fear the Lord, and walk humbly before him.
+Wherefore fear not, little Flock, for it is the Father's will to
+give you the Kingdom: and this is the reaſon that none of you
+can be pluck'd out of the Father's hand, becauſe your Lives
+are hid with Chriſt in God; and it is your meat and drink to
+lie down in the Will of the Lord. And this in my meaſure am
+I made a Witneſs of. And this is the reaſon that the Lord is
+pleaſed to unlooſe my lips, and untye my tongue, that his
+living Praiſes ſhould be ſounded forth amongſt the Heathen:
+for wonderfully hath he wrought in and amongſt you; there<g ref="char:EOLhyphen"/>fore
+is his Name to be exalted above all the gods of the Hea<g ref="char:EOLhyphen"/>then:
+for he is wondeful, and wondrouſly doth he work, for
+the ſcattering of all that is contrary to himſelf; that whatſo<g ref="char:EOLhyphen"/>ever
+is ſtanding in any, that is not of himſelf, may be brought
+to nothing, that his eternal living Truth may be known in
+every particular. Oh you Priſoners of hope! for you do I
+oft pray, and am made ſenſible of the anſwer of my Prayers,
+becauſe you are kept out of the murmuring, and out of the de<g ref="char:EOLhyphen"/>ſiring
+after <hi>Egypts Fleſh-pots.</hi> Oh let the Works of the Lord
+never be forgotten of you, who have taſted of his loving-kind<g ref="char:EOLhyphen"/>neſs;
+for, of his goodneſs there is no end.</p>
+            <p>Therefore, my Friends, keep to that which gives you the
+Victory, and keep to your Dominion, that ſin may not reign
+in your mortal bodies, and here you will find peace and reſt
+for your ſouls, as your minds are ſingly ſtaied upon the Lord;
+and your eyes kept in your head <hi>Chriſt Jeſus.</hi> Then will there
+be a watching over one another in love, and in the ſpirit of
+meekneſs, as becometh Saints who fear the Lord, and give
+glory to his Name: Such cannot watch with an evil eye, but
+are made to watch againſt that, becauſe it is for Judgment.
+So to the <hi>hidden Word in the heart</hi> do I commend you, which
+gives victory over all that which ariſes contrary to it ſelf,
+that noble Warriors you may be over all Corruptions and di<g ref="char:EOLhyphen"/>vers
+Luſts; for you are to triumph over all that which is
+contrary to the Lord, and then all things will work together
+for good: and nothing it is can ſeparate you from the Love
+of God, which is made known to you that abide in his Fear;
+<pb n="5" facs="tcp:44887:3"/>
+which Fear is the beginning of Wiſdom; and as we abide
+herein, we meet together as Children of one birth, and are
+refreſhed in one banqueting-houſe of his loving-kindneſs:
+and here is no vain jangling, but all agree together, and can
+lie down in the Counſel of the Lord; and as we are kept to
+this, there is no place for the Enemy to enter. Oh, dear
+Friends, did our Enemies but know what we injoy, who are
+gathered into Faithfulneſs, ſurely they would ceaſe Perſecu<g ref="char:EOLhyphen"/>tion,
+and own their Condemnation, concerning us; but it is
+hid from their eyes, and therefore can we ſay, <hi>Father, forgive
+them,</hi> becauſe our love runs to our Enemies: For we who
+have been made partakers of the large Love of the Lord, de<g ref="char:EOLhyphen"/>ſire
+that all might have part with us in his Fear: But alas,
+alas! our lamentation is taken up for them who flight theſe
+precious enjoyments; but to us is he riſen with healing un<g ref="char:EOLhyphen"/>der
+his wings, and therefore can we thankfully take the Cup
+of Salvation, and praiſe the Lord amongſt the Heathen: and
+this is the large Love of our God, and it is marvelous in our
+eyes. O Praiſes, Praiſes, Glory and Honour be given to
+God, who worketh all our works in us, and for us.</p>
+            <closer>
+               <signed>And here I am your Fellow-labourer
+in the Vineyard of our Lord.
+<hi>ANNE GILMAN.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:44887:4"/>
+            <head>A LETTER to CHARLES, KING of
+ENGLAND, &amp;c.</head>
+            <p>INcline thine ear (O King) and ſlight not the precious
+Warnings of the Lord, which daily are made known unto
+thee, by that of God in thy own Conſcience; and large and
+many have been the Warnings of the Servants of the Lord un<g ref="char:EOLhyphen"/>to
+thee, but they have been caſt behind thy back: And now
+is our God riſen in his Mighty Power, to make Inquiſition for
+innocent Blood; therefore, prepare, prepare, to meet the
+Lord, and conſider what account thou canſt give of the Inno<g ref="char:EOLhyphen"/>cent
+Blood which cryes in the ears of the Lord for vengeance,
+it is the voice of thy Brothers righteous blood which thou art
+to give an account of this day; and this is required at thy
+hands by him, who hath the hearts of Kings in his hands, and
+turneth them as the rivers of waters whither he pleaſeth. What
+have we done (O King) that ſuch uſuage we ſhould receive
+from thy hands, and by thy orders, that Souldiers ſhould come
+into our peaceable Meetings in a warlike manner, as if ſome
+great enemies were to be conquered, amongſt the People of
+God, whom by ſcorners are called <hi>Quakers,</hi> who cannot hold
+up a weapon againſt any? I ſay, What have we done that we
+ſhould be haled, many of us, out of our Meetings, and caſt in<g ref="char:EOLhyphen"/>to
+ſtinking Priſons on heaps, where, for want of air and room,
+many have ſealed to this Teſtimony with their death, before
+they can deny to Worſhip God as they are perſwaded in their
+own Conſciences? for, if thou ſhouldeſt prepare, in the room
+of Priſons, a fiery Furnace, or a Lions den, we can as conten<g ref="char:EOLhyphen"/>tedly
+lye down, in the Will of our God, as we can ſuffer our
+bodies to lye in Priſon: For the ſame Law which took hold of
+the Saints of God in the dayes of old, doth take hold of us at
+this day: for we cannot bow to the imaginations of men con<g ref="char:EOLhyphen"/>cerning
+the Worſhip of our God. And before we can own any
+man to be our Teacher, we can ſuffer death: for our Life can<g ref="char:EOLhyphen"/>not
+be taken away, it is hid with Chriſt in God; for thoſe that
+<pb n="7" facs="tcp:44887:4"/>
+will live godly in Chriſt Jeſus, muſt ſuffer Perſecution: And
+therefore (O King) we are not careful to anſwer thee in this
+matter, for our Confidence is in the Lord, and our Strength
+lieth in him, who is God Almighty, and doth ſave his People
+from their ſins, and from the wrath of our Enemies; and he
+giveth us courage and boldneſs, ſo that our lives, or any
+thing we do enjoy, is not near or dear unto us, for our Wills
+are freely given up into the hands of the Lord, that he ſhould
+do with us as ſeemeth good in his fight; for this I know, that
+all things ſhall work together for good to thoſe that love God,
+and are called for this purpoſe to ſuffer for his Names ſake,
+who comes through great Tribulations, their Garments are
+waſhed in the Bloud of the Lamb. And this is the Reaſon
+we cannot Conform to the Idol ſhepherds, which preach for
+Money, and divine for Hire, and ſeek their Gain from their
+Quarters; our Souls abhor ſuch Teachers, for we are Re<g ref="char:EOLhyphen"/>deemed
+from their mouths; and we ſhould know it to be a
+yoke of bondage, to turn to them again. And be it known
+unto thee (O King) that the Lord is riſen, who is the Migh<g ref="char:EOLhyphen"/>ty
+God of <hi>Jacob,</hi> in ſtrength, as with an Army, and is ſcat<g ref="char:EOLhyphen"/>tering
+to pieces all the deceitful workers of Iniquity; for
+though his loving kindneſs hath been plentifully known
+amongſt his People, yet this will not excuſe thee, when the
+great God ſhall render unto every one according to the deeds
+done in the body; and though God is pleaſed to preſerve his
+People in the hollow of his Hand, and hide them under his
+Pavillion; becauſe his hand is not ſhortened, but his arm is
+ſtretched forth ſtill, becauſe to us he is known a Deliverer in
+the time of trouble, therefore can we ſtand ſtill and ſee his
+Salvation.</p>
+            <p>And therefore am I bold to declare, That the Lord is riſen
+for the Redemption of his People, and is making way for his
+ranſomed Ones to paſs over; but <hi>Pharaoh</hi> and his Hoſt are to
+be caſt into the Sea of God's wrath: for thoſe that fear the
+Lord, are his Promiſes made known unto, and his Secrets are
+made known to thoſe that fear his Name; but to the proud,
+and haughty, and to thoſe that forget God, and turn their
+backs at his Reproof, and will none of his Counſel, ſuch will
+<pb n="8" facs="tcp:44887:5"/>
+our God ſweep away with the beeſom of deſtruction; for the
+worker of Iniquity will not be able to abide his Preſence in
+that day: Therefore (O King) conſider what thou art doing,
+for the Lord hath long waited upon thee to be gracious, and
+many precious Warnings have been handed to thee through
+the Servants of the Lord; yet that doth not clear me in the
+ſight of my God: therefore (O King) return, return, and
+repent, and harden not thy heart, as in the day of provocati<g ref="char:EOLhyphen"/>on,
+againſt that ſecret witneſs of God, which reproves thee ſe<g ref="char:EOLhyphen"/>cretly
+when no mortal eye ſeeth. Therefore, if they were to
+be caſt into utter darkneſs, who did not viſite the Servants of
+the Lord, and who did not cloath them, and who did not feed
+them when they were in Priſon; what will become of thoſe
+who caſt them into Priſon, and cauſe them to go hungry
+through their hot Perſecution? I ſay, it were better for a mill<g ref="char:EOLhyphen"/>ſtone
+to be hanged about their necks, and they caſt into the
+midſt of the Sea, than that they ſhould offend one of the little
+ones that put their truſt in the Lord. Therefore (O King)
+lay it to heart, for theſe Warnings are not come forth in vain;
+for to that of God in thy Conſcience do I defer my Cauſe,
+and let it plead for us when we are out of ſight: for if Fire
+ſhould be for us prepared, the aſhes of our bones would riſe
+as a witneſs againſt thee to plead the innocency of our Cauſe
+before thee. Therefore in love to thy Soul are theſe lines
+given forth, that a ſtop may be put to the Perſecution of the
+Saints; And ſo whether thou wilt hear or forbear, I have
+cleared my ſelf in the ſight of my God concerning thee, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <signed>ANNE GILMAN.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:44887:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
